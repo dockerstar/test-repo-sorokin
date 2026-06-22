@@ -1,3 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+.mvn/
+target/
+
+# Build
+out
+
 # Compiled class file
 *.class
 
